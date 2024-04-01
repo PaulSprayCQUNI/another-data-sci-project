@@ -1,6 +1,5 @@
 # main 
 import pandas as pd
-import pandas as pd
 # main 
 
 # Import the dataset
